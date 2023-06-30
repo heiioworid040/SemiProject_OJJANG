@@ -18,7 +18,7 @@ MVC패턴 Model2를 적용한 중고 의류 쇼핑몰 옺장. (세미프로젝�
 <br><br>
 🏠
 <br>
-http://itwillbs20.cafe24.com/](http://itwillbs1.cafe24.com/ojjang
+http://itwillbs1.cafe24.com/ojjang
 <br>
 ID : admin
 <br>
