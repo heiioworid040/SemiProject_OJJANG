@@ -23,7 +23,3 @@ http://itwillbs1.cafe24.com/ojjang
 ID : admin
 <br>
 PW : 1234
-<br><br>
-🔗
-<br>
-https://github.com/heiioworid040/SemiProject_OJJANG
