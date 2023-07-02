@@ -14,12 +14,3 @@ MVC패턴 Model2를 적용한 중고 의류 쇼핑몰 옺장. (세미프로젝�
 ![image](https://github.com/heiioworid040/SemiProject_OJJANG/assets/124132211/3e724ae4-97a9-4869-8f9d-77d33a9101ef)
 
 ![image](https://github.com/heiioworid040/SemiProject_OJJANG/assets/124132211/a295e2bc-19f7-4b71-91db-719c4bf9b9ff)
-
-<br><br>
-🏠
-<br>
-http://itwillbs1.cafe24.com/ojjang
-<br>
-ID : admin
-<br>
-PW : 1234
